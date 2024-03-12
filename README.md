@@ -1,6 +1,6 @@
 **Run in Node.js**
-_
-npm install canvas_
+
+npm install canvas
 
 TO DO:
 
